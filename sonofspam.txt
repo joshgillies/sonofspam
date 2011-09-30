@@ -45,3 +45,5 @@ twentysecond rule of #sonofspam, there is no manual entry for beer
 twentythird rule of #sonofspam,  users of #sonofspam can read, do not paste text from pages which have previously been linked in #sonofspam
 
 twentyfourth rule of #sonofspam, don't leave #sonofspam hanging
+
+twentyfifth rule of #sonofspam, gedit is not a browser. vim is, but gedit is not.
