@@ -46,4 +46,4 @@ twentythird rule of #sonofspam,  users of #sonofspam can read, do not paste text
 
 twentyfourth rule of #sonofspam, don't leave #sonofspam hanging
 
-twentyfifth rule of #sonofspam, gedit is not a browser. vim is, but gedit is not.
+twentyfifth rule of #sonofspam, gedit is not a browser, emacs is, but gedit is not
