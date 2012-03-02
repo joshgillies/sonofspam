@@ -65,3 +65,5 @@ thirtysecond rule of #sonofspam, joshgillies will *always* take it too far.
 thirtythird rule of #sonofspam, unjustified kicks are encouraged!
 
 thirtyfourth rule of #sonofspam, fakers will not be tolerated.
+
+thirtyfifth rule of #sonofspam, HTML5 Boilerplate and Bootstrap are not production ready
