@@ -76,3 +76,5 @@ thirtyfourth rule of #sonofspam, fakers will not be tolerated.
 thirtyfifth rule of #sonofspam, HTML5 Boilerplate and Bootstrap are not production ready
 
 thirtyfith rule of #sonofspam, markdown is king!
+
+thirtyfith rule of #sonofspam, encrypt your IM applications / refer to rule the first!
