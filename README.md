@@ -78,3 +78,5 @@ thirtyfifth rule of #sonofspam, HTML5 Boilerplate and Bootstrap are not producti
 thirtyfith rule of #sonofspam, markdown is king!
 
 thirtyfith rule of #sonofspam, encrypt your IM applications / refer to rule the first!
+
+firthyfyf rule of #sonofspam, there are only 35 rules in total.
